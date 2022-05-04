@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <style name="Button_style" parent="Widget.AppCompat.Button.Borderless">
+            <item name="android:textStyle">bold</item>
+            <item name="android:textColor">@color/butt_text_color</item>
+            <item name="android:textSize">25dp</item>
+            <item name="neumorph_cornerFamily">oval</item>
+            <item name="neumorph_cornerSize">32dp</item>
+
+        </style>
+
+</resources>
